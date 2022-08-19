@@ -24,7 +24,7 @@ npm install
 to install the dependencies locally.
 
 ## Links
-- [GitHub Repo](https://github.com/amklenk/Budget-Tracker)
+- [GitHub Repo](https://github.com/amklenk/AK-Budget-Tracker)
 - [Heroku Deployed App](https://budget-tracker-amk.herokuapp.com/)
 
 ## Usage
